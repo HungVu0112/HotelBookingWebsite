@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css">
     <?php require('inc/links.php') ?>
     <title>PC Hotel - Facilities</title>
     <style>
@@ -34,7 +33,7 @@
                         <img src="images/facilities/IMG_43553.svg" width="40px">
                         <h5 class="m-0 ms-3">Wifi</h5>
                     </div>    
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id eum accusamus cupiditate sit! Eaque error itaque numquam, sed illo neque. Incidunt blanditiis eius deserunt laudantium earum? Necessitatibus laborum doloremque eos!</p>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id eum accusamus cupiditate sit! Eaque error itaque numquam, sed illo neque.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 mb-5 px-4">
@@ -43,7 +42,7 @@
                         <img src="images/facilities/IMG_27079.svg" width="40px">
                         <h5 class="m-0 ms-3">Heater</h5>
                     </div>    
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id eum accusamus cupiditate sit! Eaque error itaque numquam, sed illo neque. Incidunt blanditiis eius deserunt laudantium earum? Necessitatibus laborum doloremque eos!</p>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id eum accusamus cupiditate sit! Eaque error itaque numquam, sed illo neque.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 mb-5 px-4">
@@ -52,7 +51,7 @@
                         <img src="images/facilities/IMG_41622.svg" width="40px">
                         <h5 class="m-0 ms-3">Television</h5>
                     </div>    
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id eum accusamus cupiditate sit! Eaque error itaque numquam, sed illo neque. Incidunt blanditiis eius deserunt laudantium earum? Necessitatibus laborum doloremque eos!</p>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id eum accusamus cupiditate sit! Eaque error itaque numquam, sed illo neque.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 mb-5 px-4">
@@ -61,7 +60,7 @@
                         <img src="images/facilities/IMG_49949.svg" width="40px">
                         <h5 class="m-0 ms-3">Air Conditioner</h5>
                     </div>    
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id eum accusamus cupiditate sit! Eaque error itaque numquam, sed illo neque. Incidunt blanditiis eius deserunt laudantium earum? Necessitatibus laborum doloremque eos!</p>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id eum accusamus cupiditate sit! Eaque error itaque numquam, sed illo neque.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 mb-5 px-4">
@@ -70,7 +69,7 @@
                         <img src="images/facilities/IMG_96423.svg" width="40px">
                         <h5 class="m-0 ms-3">Radio</h5>
                     </div>    
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id eum accusamus cupiditate sit! Eaque error itaque numquam, sed illo neque. Incidunt blanditiis eius deserunt laudantium earum? Necessitatibus laborum doloremque eos!</p>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id eum accusamus cupiditate sit! Eaque error itaque numquam, sed illo neque.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 mb-5 px-4">
@@ -79,7 +78,7 @@
                         <img src="images/facilities/IMG_47816.svg" width="40px">
                         <h5 class="m-0 ms-3">Massage</h5>
                     </div>    
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id eum accusamus cupiditate sit! Eaque error itaque numquam, sed illo neque. Incidunt blanditiis eius deserunt laudantium earum? Necessitatibus laborum doloremque eos!</p>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id eum accusamus cupiditate sit! Eaque error itaque numquam, sed illo neque.</p>
                 </div>
             </div> 
         </div>
